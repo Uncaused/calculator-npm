@@ -1,0 +1,22 @@
+{
+  "name": "@ar1605/calculator",
+  "version": "1.0.0",
+  "description": "Just another stupid calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo Hello World"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Uncaused/calculator-npm.git"
+  },
+  "keywords": [
+    "Calculator"
+  ],
+  "author": "ar1605",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Uncaused/calculator-npm/issues"
+  },
+  "homepage": "https://github.com/Uncaused/calculator-npm#readme"
+}
