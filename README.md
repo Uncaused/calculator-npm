@@ -34,7 +34,7 @@ console.log(result);
 const { sub } = require('@ar1605/calculator');
 
 let result = sub(5405,55);
-console.log(resuly);
+console.log(result);
 ```
 
 ### Multiplication
