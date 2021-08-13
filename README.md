@@ -52,6 +52,3 @@ const { division } = require('@ar1605/calculator');
 let result = divison(5,5);
 console.log(result);
 ```
-
-
-If you don't wanna use it don't. I just made this for fun.
